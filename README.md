@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/3e/c1/0a/3ec10a4ef019bd8bd2c358df0dd59d87.jpg)
+
 <h1 align="center">Hi 👋, I'm AyxanAmirov</h1>
 <h3 align="center">I am a frontend developer from Baku</h3>
 
